@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GMap.iml" filepath="$PROJECT_DIR$/.idea/GMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GMap2/.idea/GMap2.iml" filepath="$PROJECT_DIR$/../GMap2/.idea/GMap2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GMap_V3/.idea/GMap_V3.iml" filepath="$PROJECT_DIR$/../GMap_V3/.idea/GMap_V3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Gmap2/.idea/Gmap2.iml" filepath="$PROJECT_DIR$/../Gmap2/.idea/Gmap2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mini-Goo/.idea/Mini-Goo.iml" filepath="$PROJECT_DIR$/../Mini-Goo/.idea/Mini-Goo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Universidad UNPHU/.idea/Universidad UNPHU.iml" filepath="$PROJECT_DIR$/../Universidad UNPHU/.idea/Universidad UNPHU.iml" />
+      <module fileurl="file://$USER_HOME$/GitHub/b4r-brute/.idea/b4r-brute.iml" filepath="$USER_HOME$/GitHub/b4r-brute/.idea/b4r-brute.iml" />
+    </modules>
+  </component>
+</project>

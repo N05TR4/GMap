@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Mini-Goo" />
+    <orderEntry type="module" module-name="Gmap2" />
+    <orderEntry type="module" module-name="GMap2" />
+    <orderEntry type="module" module-name="Universidad UNPHU" />
+    <orderEntry type="module" module-name="b4r-brute" />
+    <orderEntry type="module" module-name="GMap_V3" />
+  </component>
+</module>
